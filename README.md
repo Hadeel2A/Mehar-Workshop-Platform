@@ -65,4 +65,17 @@ This project was developed as part of a collaborative team effort.
 - Integrated payment gateway  
 - Real-time notifications  
 - Workshop provider management panel  
+## 📷 Screenshots
 
+
+### 🏠 Home
+![Home](screenshots/home.JPG)
+
+### 🎨 Category
+![Category](screenshots/category.JPG)
+
+### 🔎 Explore
+![Explore](screenshots/explore.JPG)
+
+### 📝 Survey
+![Survey](screenshots/survey.jpg)
