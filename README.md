@@ -1,5 +1,10 @@
 # 🌟 Mehar – Workshop Exploration & Booking Platform
 
+
+
+🌐 **Live Demo:**  
+[Visit Mehar Platform](https://mehar.infinityfreeapp.com/homepage.php)
+
 ## 📌 Overview
 
 Mehar is an online platform designed to simplify the discovery and booking of workshops across various fields. The system enables users to explore skill-development opportunities and manage their learning journey through an intuitive and flexible interface.
