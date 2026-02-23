@@ -67,14 +67,15 @@ This project was developed as part of a collaborative team effort.
 - Workshop provider management panel  
 ## 📷 Screenshots
 
-### 🏠 Home Page
-![Home Page](screenshots/home.png)
 
-### 🎨 Categories Page
-![Categories](screenshots/category.png)
+### 🏠 Home
+![Home](screenshots/home.JPG)
 
-### 📝 Survey Page
-![Survey](screenshots/survey.png)
+### 🎨 Category
+![Category](screenshots/category.JPG)
 
-### 🔎 Explore Page
-![Explore](screenshots/explore.png)
+### 🔎 Explore
+![Explore](screenshots/explore.JPG)
+
+### 📝 Survey
+![Survey](screenshots/survey.jpg)
